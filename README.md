@@ -2,7 +2,7 @@
 
 > Plan it. Build it. Validate it. Review it. Ship it.
 
-## Make It Your Own
+## Make it your own!
 
 After cloning, remove the original remote and create your own GitHub repository:
 
